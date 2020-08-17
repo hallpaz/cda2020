@@ -20,7 +20,9 @@
 
 1. [Boletins epidemiológicos](https://coronavirus.saude.gov.br/boletins-epidemiologicos)
 2. [Tweets](https://developer.twitter.com/en/docs)
-3. Proposições Legislativas - [Câmara dos Deputados](https://www.camara.leg.br/) | [Ações Corona](https://www.camara.leg.br/internet/agencia/infograficos-html5/procorona/index.html) | [Dados Abertos (Câmara)](https://dadosabertos.camara.leg.br/swagger/api.html) | [Dados Abertos (Senado)](https://legis.senado.leg.br/dadosabertos/docs/resource_MateriaService.html)
+3. Proposições Legislativas
+
+[Câmara dos Deputados](https://www.camara.leg.br/) | [Ações Corona](https://www.camara.leg.br/internet/agencia/infograficos-html5/procorona/index.html) | [Dados Abertos (Câmara)](https://dadosabertos.camara.leg.br/swagger/api.html) | [Dados Abertos (Senado)](https://legis.senado.leg.br/dadosabertos/docs/resource_MateriaService.html)
 
 ## Dados fechados???
 Dados privados que você pode comprar/licenciar o acesso ou, eventualmente, ter autorização para uso devido à sua profissão, parcerias ou algum outro tipo de contrato privado.
