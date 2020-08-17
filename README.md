@@ -1,7 +1,8 @@
 # Ciência de Dados Aplicada - IMPA 2020
 
 #### Algums bases de dados sobre Covid-19
-1. 
+1. [Dados do Governo Federal](https://covid.saude.gov.br/)
+2. [Brasil IO](https://brasil.io/covid19/)
 
 
 #### Fontes de dados que podem ser úteis para trabalhar em conjunto
