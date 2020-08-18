@@ -13,7 +13,7 @@
 2. [Atlas do Desenvolvimento Humano no Brasil](http://www.atlasbrasil.org.br/2013/pt/download/)
 3. [Dados Públicos CNPJ](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)
 4. [Instituto Brasileiro de Geografia e Estatística](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)
-5. [Instituto de Pesquisa Econômica Aplicada]()
+5. [Instituto de Pesquisa Econômica Aplicada](http://www.ipeadata.gov.br/Default.aspx)
 6. [Imprensa Nacional (Diário Oficial da União)](https://www.in.gov.br/acesso-a-informacao/dados-abertos/base-de-dados)
 
 ## Dados Não Estruturados
