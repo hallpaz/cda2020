@@ -33,9 +33,15 @@ Dados privados que você pode comprar/licenciar o acesso ou, eventualmente, ter 
 
 ## Outros links úteis
 
+#### Canal Programação Dinâmica
+* [Análise de Dados](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
+* [Introdução ao Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J)
+* [Dicas de Pandas](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6SSsEgQrNwpOLTupXPuiMQ)
+* [Machine Learning](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
+* [Google Colab](https://youtu.be/_mIwsA2ddSc)
+
+#### API de Dados
 * [Covid-19 Brasil API](https://covid19-brazil-api.now.sh/)
-* [Painel Brasil | Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
+* [Painel Brasil / Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
 * [APIFY - Covid-19 APIs](https://apify.com/covid-19)
-
-
 
