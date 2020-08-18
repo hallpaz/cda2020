@@ -33,7 +33,9 @@ Dados privados que você pode comprar/licenciar o acesso ou, eventualmente, ter 
 
 ## Outros links úteis
 
-
+* [Covid-19 Brasil API](https://covid19-brazil-api.now.sh/)
+* [Painel Brasil | Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
+* [APIFY - Covid-19 APIs](https://apify.com/covid-19)
 
 
 
