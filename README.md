@@ -29,6 +29,11 @@ Dados privados que você pode comprar/licenciar o acesso ou, eventualmente, ter 
 
 ## Portal CoronaViz
 
+[Desvendando (os dados)](https://www.visgraf.impa.br/coronaviz/desvendando/)
+
+## Outros links úteis
+
+
 
 
 
