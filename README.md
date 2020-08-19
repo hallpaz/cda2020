@@ -40,6 +40,10 @@ Dados privados que você pode comprar/licenciar o acesso ou, eventualmente, ter 
 * [Machine Learning](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
 * [Google Colab](https://youtu.be/_mIwsA2ddSc)
 
+#### Dados e Plots
+
+* [Compilado por Peixe Babel](https://peixebabel.github.io/COVID-19/)
+
 #### API de Dados
 * [Covid-19 Brasil API](https://covid19-brazil-api.now.sh/)
 * [Painel Brasil / Fiocruz](https://bigdata-covid19.icict.fiocruz.br/)
